@@ -1,5 +1,7 @@
 # Projects
 
+.
+
 ## **Scratch 3 Extension Projects (not made by Frame) :**
 
 ## 1.**[Mouse Cursor Extension](https://github.com/Samq64/scratch-extensions)**
@@ -10,7 +12,7 @@
 
 ![Mouse Cursor Extension](https://raw.githubusercontent.com/FrameTuning/Frame/gh-pages/assets/Step3.png)
 
-# Then you're done.
+## Then you're done.
 
 
 ## 2.**[Utilities Extension](https://sheeptester.github.io/javascripts/utilities.js)**
@@ -23,4 +25,4 @@
 
 ![Step 1 - 2](https://raw.githubusercontent.com/FrameTuning/Frame/gh-pages/assets/Screenshot%202021-09-22%20at%2015.08.08.png)
 
-# Then you're done.
+## Then you're done.
