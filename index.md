@@ -12,4 +12,14 @@
 
 # Then you're done.
 
+## 2.**[Utlities Extension](https://sheeptester.github.io/javascripts/utilities.js)**
 
+## Descrition : Utilities adds a bunch of new block wich some are a little useless ...
+
+![Utilites Extension](https://raw.githubusercontent.com/FrameTuning/Frame/gh-pages/assets/Screenshot%202021-09-22%20at%2016.25.51.png)
+
+## but this can add quite a few usefull block.
+
+![Step 1 - 2](https://raw.githubusercontent.com/FrameTuning/Frame/gh-pages/assets/Screenshot%202021-09-22%20at%2015.08.08.png)
+
+# Then you're done.
