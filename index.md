@@ -9,6 +9,6 @@
 
 ![Mouse Cursor Extension](https://raw.githubusercontent.com/FrameTuning/Frame/gh-pages/assets/Step3.png)
 
-# Then You're done.
+# Then you're done.
 
 
