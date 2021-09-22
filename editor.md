@@ -1,1 +1,1 @@
-# [Front Page](https://frametuning.github.com/Frame/)
+# [Front Page](https://frametuning.github.com/FrameTuning/Frame/)
