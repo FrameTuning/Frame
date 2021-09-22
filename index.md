@@ -2,7 +2,7 @@
 
 ## **Scratch 3 Extension Projects (not made by Frame) :**
 
-## **[Mouse Cursor Extension](https://github.com/Samq64/scratch-extensions)**
+## 1.**[Mouse Cursor Extension](https://github.com/Samq64/scratch-extensions)**
 
 ## Description : This Extension will allow you to change your cursor in your Scratch game. 
 
