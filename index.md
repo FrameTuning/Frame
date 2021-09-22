@@ -8,5 +8,5 @@ Description : This Extension will allow you to change your cursor in your Scratc
 
 ![Mouse Cursor Extension](https://raw.githubusercontent.com/FrameTuning/Frame/gh-pages/assets/Step3.png)
 
-Then You're done.
+## Then You're <h2> done.
 
