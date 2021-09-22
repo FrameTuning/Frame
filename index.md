@@ -13,7 +13,7 @@
 # Then you're done.
 
 
-## 2.**[Utlities Extension](https://sheeptester.github.io/javascripts/utilities.js)**
+## 2.**[Utilities Extension](https://sheeptester.github.io/javascripts/utilities.js)**
 
 ## Description : [Utilities](https://sheeptester.github.io/javascripts/utilities.js) adds a bunch of new block wich some are a little useless ...
 
