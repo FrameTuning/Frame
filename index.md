@@ -1,26 +1,4 @@
-# Projects
-
-## **Scratch 3 Extension Projects (not made by Frame) :**
-
-## 1.**[Mouse Cursor Extension](https://github.com/Samq64/scratch-extensions)**
-
-## Description : This Extension will allow you to change your cursor in your Scratch game. 
-
-![Mouse Cursor Extension](https://raw.githubusercontent.com/FrameTuning/Frame/gh-pages/assets/Steps1-2.png)
-
-![Mouse Cursor Extension](https://raw.githubusercontent.com/FrameTuning/Frame/gh-pages/assets/Step3.png)
-
-# Then you're done.
-
-
-## 2.**[Utilities Extension](https://sheeptester.github.io/javascripts/utilities.js)**
-
-## Description : [Utilities](https://sheeptester.github.io/javascripts/utilities.js) adds a bunch of new block wich some are a little useless ...
-
-![Utilites Extension](https://raw.githubusercontent.com/FrameTuning/Frame/gh-pages/assets/Screenshot%202021-09-22%20at%2016.25.51.png)
-
-## but this can add quite a few usefull block.
-
-![Step 1 - 2](https://raw.githubusercontent.com/FrameTuning/Frame/gh-pages/assets/Screenshot%202021-09-22%20at%2015.08.08.png)
-
-# Then you're done.
+# About Me
+-
+## Hi, I'm Frame, a guy who likes learning new stuff, playing video games, play sports and coding. I am not new to computer stuff, I was coding in 
+## [Unity](https://unity.com/), I recently learned how to code in [Scratch](https://scratch.mit.edu) and now I'm a pro Scratcher. I also recently learned how to edit pictures and videos with [Adobe Photoshop](https://www.adobe.com/ca_fr/products/photoshop.html), I'm not that good tho. I really like to play horror games with friends too
