@@ -1,3 +1,5 @@
+# Front Page
+
 # [Project](https://frametuning.github.io/Frame/project) - [Scratch Editor Variant](https://frametuning.github.io/Frame/editor)
 
 
